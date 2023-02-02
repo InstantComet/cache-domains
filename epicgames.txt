@@ -10,3 +10,4 @@ download4.epicgames.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
 epicgames.sched.dma.tdnsdl1.cn
+epicgames.sched.d1p.tdnsdl1.cn
